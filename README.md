@@ -19,7 +19,7 @@ It uses the "KSP Add-on Version Checker" mod if you have it installed (not inclu
 
 Dependency mods:
 
--Module Manager
+-Module Manager (not included)
 
 Installation:
 
