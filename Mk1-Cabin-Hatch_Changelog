@@ -3,6 +3,7 @@ Mk1-Cabin-Hatch
 ### 1.0.0. (26 april 2020)
 - COMPATIBILITY PATCH with older versions available (see README file or forum to use it).
 - Switched hatch as a part variants !
+- Now increase the mass and cost when variant is used.
 - Now seamlessly switch all the part lights together.
 
 ### 0.2.0. (03 november 2016)
