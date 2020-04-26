@@ -1,5 +1,9 @@
 Mk1-Cabin-Hatch
 
+### 1.0.0. (26 april 2020)
+- Switched hatch as a part variants !
+- COMPATIBILITY PATCH with older versions available (see README file to use it).
+
 ### 0.2.0. (03 november 2016)
 - Beta version.
 
