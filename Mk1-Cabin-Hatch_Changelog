@@ -1,7 +1,12 @@
 Mk1-Cabin-Hatch
 
+### 1.0.1. (18 december 2020)
+- Fixed new stock part .cfg using ModuleColorChanger (mod compatible with older and newer version)
+- Fixed part available in pod category instead of utility (forgot to disable it after development) 
+- COMPATIBILITY PATCH with older versions (<=0.2.0) available (see README file or forum to use it).
+
 ### 1.0.0. (26 april 2020)
-- COMPATIBILITY PATCH with older versions available (see README file or forum to use it).
+- COMPATIBILITY PATCH with older versions (<=0.2.0) available (see README file or forum to use it).
 - Switched hatch as a part variant !
 - Now increase the mass and cost when variant is used.
 - Now seamlessly switch all the part lights together.
