@@ -2,7 +2,7 @@ Mk1-Cabin-Hatch
 
 ### 1.0.1. (18 december 2020)
 - No longer available on Curseforge (use spacedock instead)
-- Fixed new stock part .cfg using ModuleColorChanger (mod compatible with older and newer version)
+- Fixed stock part .cfg now using ModuleColorChanger (mod compatible with older and newer version)
 - Fixed part available in pod category instead of utility (forgot to disable it after development) 
 - COMPATIBILITY PATCH with older versions (<=0.2.0) available (see README file or forum to use it).
 
